@@ -1,11 +1,11 @@
 <h1 align="center">Hey 👋, I'm Maksim</h1>
-<h3 align="center">🚀 Cybersecurity & AI Enthusiast | Offensive & Defensive Security Learner | Open to Internships</h3>
+<h3 align="center">🚀 Cybersecurity & AI Enthusiast | Defensive Security Learner | Open to Internships</h3>
 
 ---
 
 ### 👨‍💻 About Me
 - 🎓 Currently pursuing a **Bachelor’s in Robotics & AI** at **University of Klagenfurt (2024–2027)**  
-- 🔐 Passionate about **Cybersecurity** (Ethical Hacking, Blue Teaming, Digital Forensics, OSINT)  
+- 🔐 Passionate about **Cybersecurity** (Blue Teaming, Digital Forensics, OSINT)  
 - 💡 Always curious, always learning – whether it’s pentesting, SOC analysis, or building AI-powered tools  
 - 🌍 Languages: **Russian (native), English (C1), German (B1)**  
 - 🤝 Open to collaboration, internships, and connecting with like-minded people  
