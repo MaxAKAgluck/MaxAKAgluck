@@ -36,7 +36,8 @@
 - Cisco Networking Academy (**Networking, Devices & Security Essentials**)  
 - eJPT (INE), Junior Penetration Tester (TryHackMe)  
 - Ethical Hacking Bootcamp (ZTM), Blue Team Junior Analyst (SBT)  
-- SOC Level 1 (TryHackMe)  
+- SOC Level 1 (TryHackMe)
+- Microsoft Azure Fundamentals
 
 ---
 
