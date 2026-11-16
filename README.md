@@ -7,7 +7,7 @@
 - 🎓 Currently pursuing a **Bachelor’s in Robotics & AI** at **University of Klagenfurt (2024–2027)**  
 - 🔐 Passionate about **Cybersecurity** (Blue Teaming, Digital Forensics, OSINT)  
 - 💡 Always curious, always learning – whether it’s pentesting, SOC analysis, or building AI-powered tools  
-- 🌍 Languages: **Russian (native), English (C1), German (B1)**  
+- 🌍 Languages: **Russian (native), English (C1), German (C1)**  
 - 🤝 Open to collaboration, internships, and connecting with like-minded people  
 
 ---
@@ -48,4 +48,4 @@
 
 ---
 
-✨ *Curious mind, open heart, and always ready to learn from others. Let’s collaborate and secure the digital world together!* 🔐
+
